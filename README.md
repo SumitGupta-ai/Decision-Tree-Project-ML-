@@ -45,6 +45,6 @@ Graphs are used to visualize:
 
 ---
 
-📌 Conclusion
+## 📌 Conclusion
 
 This project helped me understand the working of the Decision Tree algorithm, along with data preprocessing, evaluation metrics, and visualization techniques in Machine Learning.
