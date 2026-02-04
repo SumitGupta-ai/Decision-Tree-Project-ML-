@@ -40,7 +40,7 @@ Graphs are used to visualize:
 - Python 🐍  
 - NumPy  
 - Pandas  
-- Matplotlib / Seaborn  
+- Matplotlib / Seaborn
 - Scikit-learn  
 
 ---
